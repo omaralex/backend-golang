@@ -31,4 +31,4 @@ This guide will walk you through setting up the project using Docker and Postgre
 
 4. **Run API local**:
 
-   After the whole steps, you can access API using `localhost:8080` on browser
+   After the whole steps, you can access API run the makefile `web` and after accessing to `localhost:8080` on browser
